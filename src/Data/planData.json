@@ -1,0 +1,73 @@
+[
+    {
+      "heading": "Starter",
+      "type": "Get up and running in minutes",
+      "price": 16,
+      "yearlyPrice": "Billed at $192/year",
+      "includedUsers": "Includes 1 user - $16 per additional user",
+      "btnText": "Select Plan",
+      "listHeading": "Includes",
+      "list": [
+        "1 microsite per user",
+        "Choice of smart card (yearly plan only)",
+        "OneTapConnect Sales Training",
+        "Expose and Close Academy",
+        "Basic Analytics",
+        "Email support",
+        "Add-on available"
+      ]
+    },
+    {
+      "heading": "Professional",
+      "type": "For sales professionals...",
+      "price": 22,
+      "yearlyPrice": "Billed at $264/year",
+      "includedUsers": "Includes 1 user - $22 per additional user",
+      "btnText": "Select Plan",
+      "listHeading": "Everything in “Starter” plus",
+      "list": [
+        "Connexions (CRM)",
+        "Integrations (learn more)",
+        "Email signature",
+        "Zoom background",
+        "Form builder",
+        "Advanced analytics",
+        "Add-on available"
+      ]
+    },
+    {
+      "heading": "Team",
+      "type": "Get your team synchronized",
+      "price": 96,
+      "yearlyPrice": "Billed at $1.152/year + 350 onboarding fee",
+      "includedUsers": "Includes 1 user - $16 per additional user",
+      "btnText": "Select Plan",
+      "listHeading": "Everything in “Professional” plus",
+      "list": [
+        "1 to 1 onboarding",
+        "Professionally designed Microsoft (first template)",
+        "Custom printed smart cards (yearly plan only)",
+        "Location",
+        "Priority Support",
+        "Add-on available"
+      ]
+    },
+    {
+      "heading": "Enterprise",
+      "type": "Get up and running in minutes",
+      "price": "",
+      "yearlyPrice": "",
+      "includedUsers": "",
+      "btnText": "Talk to sales",
+      "listHeading": "Everything in “Team” plus",
+      "list": [
+        "1 to 1 onboarding",
+        "Dedicated account manager",
+        "Custom printed smart cards (yearly plan only)",
+        "Single sign-in",
+        "Full concierge service available",
+        "Add-on available"
+      ]
+    }
+  ]
+  
